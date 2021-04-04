@@ -3,7 +3,7 @@
     <div class="flex justify-center items-center pt-32 pb-4">
       <img class="mr-4" src="../static/rounce.png" width="50" height="50">
       <div class="header text-center text-5xl font-bold text-black">
-        Rounce
+        Essentia
       </div>
     </div>
 
